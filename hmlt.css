@@ -1,0 +1,103 @@
+*{
+    margin:0;
+    padding:0;
+}
+body{
+  background-color: #EEE ;
+  font-family: 'Open Sans', sans-serif;
+}.container{
+  max-width: 1000px;
+  background-color: #E4F9F5;
+  margin: 0 auto;
+  padding:20px;
+}
+header{
+
+
+}
+.image{
+   width: 100px;
+   height: 120px;
+   border:3px solid white;
+   border-radius:50%;  
+   float:left;
+}
+.header-bio{
+   float:left;
+   padding: 30px;
+
+}
+h1,h2,h3,h4,h5,h6{
+   color: #11999e;
+
+}
+.header-address{
+  float: right;
+  color: red;
+  text-decoration: solid;
+  font-weight: bold;
+  padding: 20px;
+
+}
+.header-address a:hover{
+   text-decoration: underline;
+   color:tomato;
+
+}
+.div-clear{
+   clear: both;
+
+}
+
+
+
+
+/*----personal start------*/
+#personal-section{
+
+
+}
+.content{
+margin-bottom: 30px;
+
+}
+.left-div{
+width:30px;
+float:left;
+
+}
+.right-div{
+width:70;
+float:right;
+
+
+}
+#About-section{
+
+}
+.container{
+   margin-bottom: 30px;
+}
+.left-div{
+   width: 30%;
+   float:left;
+}
+.right-div{
+width: 30%;
+float:right;
+}
+.bottom-container{
+   background-color: black;
+   text-align: center;
+   padding: 10px;
+}
+.bottom-container a{
+   color: white;
+   text-decoration: none;
+   margin: 20px;
+
+}
+.bottom-container p{
+   color: white;
+   margin-top: 20px;
+}
